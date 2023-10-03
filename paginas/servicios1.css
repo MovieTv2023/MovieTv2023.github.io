@@ -334,7 +334,11 @@ input {
     #menu:checked ~ .navbar {
         display: initial;
     }
-
+    
+    .logo {
+        margin-top: 0px;
+    }
+    
     .header {
         min-height: 0vh;
         padding: 80px 30px 50px 30px;
