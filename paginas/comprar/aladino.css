@@ -4,7 +4,6 @@
 
 * {
 	margin: 0;
-	padding: 0px 0px 0px 2px;
 	box-sizing: border-box;
 }
 
@@ -43,7 +42,6 @@ header {
 }
 
 main {
-	display: flex;
 	gap: 30px;
 
 }
