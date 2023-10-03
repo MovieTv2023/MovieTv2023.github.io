@@ -406,15 +406,14 @@ main {
 		display: none;
 	}
 
-    .footer {
+        .footer {
         flex-direction: column;
         text-align: center;
-    }
+        }
 
-    .link ul {
+        .link ul {
         margin-top: 20px;
-
-    }
+        }
 
 	.card-list-products {
 		width: 100%;
@@ -423,16 +422,14 @@ main {
 
 	.product {
         padding: 30px;
-    }
+        }
 	
-    .card-list-products {
+        .card-list-products {
 			display: grid;
 			grid-template-columns: repeat(1, 1fr);
 			gap: 15px;
 			width: 100%;
 			height: auto;
-			
-		
 	}
 
 	.info-card {
