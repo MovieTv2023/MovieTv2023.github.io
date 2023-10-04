@@ -409,6 +409,10 @@ input {
         padding: 20px;
     }
 
+    .ads2, .ads3{
+        display: none;
+    }
+    
     .menu label {
         display: initial;
     }
